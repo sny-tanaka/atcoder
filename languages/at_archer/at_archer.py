@@ -29,7 +29,7 @@ def solve(n: int, m: int, d: int, r: list, s: list) -> int:
             imos[d] -= (r_list[i] - a) // d * s_list[i]
     val = 0
     score = 0
-    for i in range(0, d):
+    for i in range(d):
         val += imos[i]
         score = max(score, val)
     return score
