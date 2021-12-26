@@ -1,6 +1,7 @@
 # Source
 https://atcoder.jp/contests/arc131/tasks/arc131_d
 
+# Compare language
 |  Language  |  Exec time  |  Use memory  |
 | ----       | ----        | ----         |
 |  Python    |  577ms      |  44,800KB    |
