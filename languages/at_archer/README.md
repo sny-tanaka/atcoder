@@ -5,3 +5,4 @@ https://atcoder.jp/contests/arc131/tasks/arc131_d
 | ----       | ----        | ----         |
 |  Python    |  577ms      |  44,800KB    |
 |  Rust      |  46ms       |  20,620KB    |
+|  C++       |  102ms      |  19,720KB    |
