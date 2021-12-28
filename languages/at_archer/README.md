@@ -12,4 +12,5 @@ https://atcoder.jp/contests/arc131/tasks/arc131_d
 |  Javascript |  184ms      |  93,288KB    | [at_archer.js](./at_archer.js)       |
 |  PHP        |  214ms      |  90,552KB    | [at_archer.php](./at_archer.php)     |
 |  Perl       |  541ms      |  103,032KB   | [at_archer.pl](./at_archer.pl)       |
-|  Python     |  577ms      |  44,800KB    | [at_archer.py](./at_archer.py)       |
+|  Java       |  543ms      |  65,532KB    | [at_archer.java](./at_archer.java)   |
+|  Python     |  577ms      |  44,800KB    | [at_archer.py](./at_archer.py)       |	
